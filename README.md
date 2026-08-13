@@ -80,6 +80,8 @@ Data Cleaning & Transformation
    Power Query
         ↓
       DAX
+        ↓
+3-Page Interactive Dashboard
 
 🎯 Key Objectives
 Analyze current LinkedIn job market trends
@@ -88,12 +90,12 @@ Compare compensation across job levels
 Understand remote and on-site job opportunities
 Analyze job distribution by location and domain
 Identify skills that can support career planning
+
 📈 Key Outcome
 
 The project converts raw LinkedIn job-posting data into an interactive Business Intelligence dashboard, providing useful insights into hiring trends, salary patterns, job opportunities, and in-demand technical skills.
 
 👨‍💻 Author
-
 Manoj Kumar
-        ↓
-3-Page Interactive Dashboard
+       
+
